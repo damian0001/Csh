@@ -7,7 +7,7 @@ using CsvHelper;
 using CsvHelper.Configuration;
 
 // Main program without namespace
-class Program
+public class Program
 {
     static void Main()
     {

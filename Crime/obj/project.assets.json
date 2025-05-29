@@ -53,19 +53,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Damian\\.nuget\\packages\\": {}
+    "/home/alex/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Damian\\Desktop\\290\\Projekt\\Crime\\Crime.csproj",
+      "projectUniqueName": "/home/alex/school/Csh/Crime/Crime.csproj",
       "projectName": "Crime",
-      "projectPath": "C:\\Users\\Damian\\Desktop\\290\\Projekt\\Crime\\Crime.csproj",
-      "packagesPath": "C:\\Users\\Damian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Damian\\Desktop\\290\\Projekt\\Crime\\obj\\",
+      "projectPath": "/home/alex/school/Csh/Crime/Crime.csproj",
+      "packagesPath": "/home/alex/.nuget/packages/",
+      "outputPath": "/home/alex/school/Csh/Crime/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Damian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/alex/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -89,7 +89,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -111,12 +111,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.4, 9.0.4]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
