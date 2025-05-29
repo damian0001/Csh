@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "voeEBJWCu/Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Damian\\Desktop\\290\\Projekt\\Crime\\Crime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damian\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

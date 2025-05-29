@@ -1,0 +1,17 @@
+C:\Users\Damian\Desktop\290\Projekt\Crime\bin\Debug\net9.0\Crime.exe
+C:\Users\Damian\Desktop\290\Projekt\Crime\bin\Debug\net9.0\Crime.deps.json
+C:\Users\Damian\Desktop\290\Projekt\Crime\bin\Debug\net9.0\Crime.runtimeconfig.json
+C:\Users\Damian\Desktop\290\Projekt\Crime\bin\Debug\net9.0\Crime.dll
+C:\Users\Damian\Desktop\290\Projekt\Crime\bin\Debug\net9.0\Crime.pdb
+C:\Users\Damian\Desktop\290\Projekt\Crime\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\Crime.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\Crime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\Crime.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\Crime.AssemblyInfo.cs
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\Crime.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\Crime.csproj.Up2Date
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\Crime.dll
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\refint\Crime.dll
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\Crime.pdb
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\Crime.genruntimeconfig.cache
+C:\Users\Damian\Desktop\290\Projekt\Crime\obj\Debug\net9.0\ref\Crime.dll
